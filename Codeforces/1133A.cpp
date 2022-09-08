@@ -1,6 +1,9 @@
-/* A. Middle of the Contest
+/* 
+*  A. Middle of the Contest
 *  Codeforces 1133A
-*  Mahbub Kousar         */
+*  https://codeforces.com/contest/1133/problem/A
+*  Mahbub Kousar
+*/
 
 #include<bits/stdc++.h>
 using namespace std;

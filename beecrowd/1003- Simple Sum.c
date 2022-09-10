@@ -1,5 +1,5 @@
 //https://www.beecrowd.com.br/judge/en/problems/view/1003
-//bee-1003
+//bee-1003 - Simple Sum
 //Mahbub Kousar
 #include <stdio.h>
  

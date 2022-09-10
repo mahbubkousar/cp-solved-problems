@@ -1,5 +1,5 @@
 //https://www.beecrowd.com.br/judge/en/problems/view/1005
-//bee-1005
+//bee-1005 - Average 1
 //Mahbub Kousar
 #include <stdio.h>
  
